@@ -1,5 +1,5 @@
 {
-    "name": "fabfuel/prophiler",
+    "name": "lajosbencz/prophiler",
     "description": "PHP Profiler & Developer Toolbar built for Phalcon",
     "minimum-stability": "stable",
     "license": "BSD-3-Clause",
@@ -7,6 +7,10 @@
         {
             "name": "Fabian Fuelling",
             "email": "fabian@fabfuel.de"
+        },
+        {
+            "name": "Lajos Bencz",
+            "email": "lazos@lazos.me"
         }
     ],
     "autoload": {
